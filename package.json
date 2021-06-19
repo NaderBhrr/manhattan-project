@@ -1,0 +1,25 @@
+{
+  "name": "manhattan",
+  "version": "1.0.0",
+  "description": "An application for fullstack engineer",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaderBhrr/manhattan-project.git"
+  },
+  "keywords": [
+    "Node.js",
+    "React",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "NaderBhrr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NaderBhrr/manhattan-project/issues"
+  },
+  "homepage": "https://github.com/NaderBhrr/manhattan-project#readme"
+}
